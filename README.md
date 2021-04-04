@@ -9,4 +9,4 @@ Dritte Zeile in grün
 let's go
 nice
 
-<h3 style="color:#ff0000">Danger</h3>
+<h3 style="color:#RRGGBB">Danger</h3>
