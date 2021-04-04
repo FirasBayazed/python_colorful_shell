@@ -3,7 +3,7 @@
 bring colors to your python shell
 ### output:
 ```
-style="color: red;"> Erste Zeile in blau auf gelb </span>
+Erste Zeile in blau auf gelb
 Zweite Zeile auf schwarz
 Dritte Zeile in grün
 let's go
