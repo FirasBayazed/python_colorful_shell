@@ -5,6 +5,6 @@ bring colors to your python shell
 
 Erste Zeile in blau auf gelb
 Zweite Zeile auf schwarz
-`#ffffff`Dritte Zeile in grün
+`#ffffff` Dritte Zeile in grün
 let's go
 nice
